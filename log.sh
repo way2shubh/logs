@@ -1,4 +1,4 @@
-# /bin/bash
+#! /bin/bash
 
 sudo mkdir -p /Users/logs
 
