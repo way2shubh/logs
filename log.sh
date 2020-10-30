@@ -25,4 +25,4 @@ sudo ls /Library/CS/ > /Users/logs/ls.txt
 
 ps -ef | grep CSDaemon > /Users/logs/csdaemon.txt 
 
-sudo kextstat | grep crowd > /Users/kextstat.txt
+sudo kextstat | grep crowd > /Users/logs/kextstat.txt
